@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hej och välkommen till min profil! 👋
 
+Mitt namn är Alyssa Yodkaew. Just nu studerar jag webbutvecklare på Mittuniversitet. 
+Här samlar jag mina projekt, från små experiment till större projekt.
+
+## Om mig
+Jag är 27 år och bor i Stockholm. Jag är matte till en 6-årig katt som heter Kenai. 
 <!--
 **alyssayod/alyssayod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
